@@ -16,7 +16,7 @@ BASE_URL = "https://beta.elevenlabs.io"
 SIGNUP_URL = "https://beta.elevenlabs.io/sign-up"
 MAIL_DOMAIN = "txcct.com"
 
-HEKT_EXT_PATH = os.path.join(tempfile.gettempdir(), "hektCaptcha-extension.crx")
+HEKT_EXT_PATH = "/home/lop01/Downloads/nopecha.crx"
 
 
 def _generate_email():
